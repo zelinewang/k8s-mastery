@@ -12,7 +12,7 @@ Frontend:
 
 **My Cloud Service Endpoint**  
 **_(UPDATE: ALL not available right now, using the terraform in This repo)_**    
-Frontend: http://34.138.150.173:80/ (to access the application on the cloud) 
+Frontend: http://34.138.150.173:80/ (to access the application on the cloud)   
 Logic: http://35.190.130.116:80/  
 Web-App: http://35.196.48.152:80/  
 
