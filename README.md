@@ -11,7 +11,7 @@ Frontend:
 [https://hub.docker.com/r/zelinwang10/sentiment-analysis-frontend ](https://hub.docker.com/layers/zelinwang10/sentiment-analysis-frontend/latest-amd64/images/sha256-043ce429f3cae1936f29145855c5845c122f8e439ff648e52e8880c660aa6383?context=explore)  
 
 **My Cloud Service Endpoint**  
-Frontend: http://34.138.150.173:80/ (to access the application on the cloud)  
+Frontend: http://34.138.150.173:80/ (to access the application on the cloud) _ **(UPDATE: not available right now, using the terraform in This repo)**_
 Logic: http://35.190.130.116:80/  
 Web-App: http://35.196.48.152:80/  
 
